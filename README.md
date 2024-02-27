@@ -10,4 +10,5 @@ Data Literacy/ Design Thinking/Persona/Big data/Excel Power Query/Database & SQL
 
 # Tools & Skills 
 MYSQL POWERBI GIT PYTHON NOTION MIRO 
+<img src="http://img.shields.io/badge/MYSQL-FFCA27?style=flat-square&logo=MYSQL&logoColor=white"/>
 <img src="http://img.shields.io/badge/MYSQL-FFCA28?style=flat-square&logo=MYSQL&logoColor=white"/>
