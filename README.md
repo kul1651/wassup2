@@ -3,3 +3,9 @@
 
 # Period
 2024-01-22(Mon) ~ 2024.06.05(Wed)
+
+# Learning about 
+Data Literacy/ Design Thinking/Persona/Big data/Excel Power Query/Database & SQL
+
+# Tools & Skills 
+MYSQL POWERBI GIT PYTHON NOTION MIRO 
