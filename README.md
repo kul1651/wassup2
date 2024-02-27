@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=color=auto&height=300&section=header&text=WASSUP2%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice)
 이스트소프트 KDT AI서비스기획 과정 WASSUP 2기
 
 # Period
