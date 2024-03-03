@@ -10,7 +10,7 @@ Data Literacy/ Design Thinking/Persona/Big data/Excel Power Query/Database & SQL
 
 # Tools & Skills 
 <img src="http://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=MYSQL&logoColor=white"/> <img src="http://img.shields.io/badge/Power BI-F2C811?style=flat-square&logo=MYSQL&logoColor=white"/>
-<img src="http://img.shields.io/badge/Power BI-F2C811?style=flat-square&logo=MYSQL&logoColor=white"/>
+
 <img src="http://img.shields.io/badge/GitHub-181717?style=flat-square&logo=MYSQL&logoColor=white"/>
 <img src="http://img.shields.io/badge/Python-3776AB?style=flat-square&logo=MYSQL&logoColor=white"/>
 <img src="http://img.shields.io/badge/Notion-000000?style=flat-square&logo=MYSQL&logoColor=white"/>
