@@ -10,6 +10,12 @@ __pycache__/
 dataset/
 
 
+# sample
+sample/
+
+# output
+output/
+
 # Distribution / packaging
 .Python
 build/
